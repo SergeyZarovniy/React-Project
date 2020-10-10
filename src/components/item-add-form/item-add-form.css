@@ -1,9 +1,9 @@
-.item-add-form{
-    margin-top: 15px;
+.bottom-panel {
+    margin-top: 10px;
 }
-.item-add-form input{
+
+.bottom-panel .new-todo-label {
+    width: auto;
+    flex-grow: 1;
     margin-right: 3px;
-}
-.item-add-form button {
-    width: 100px;
 }
